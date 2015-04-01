@@ -20,7 +20,7 @@ return [
         'A cat holding its tail up is a sign of happiness or a welcoming demeanor.',
         'Kneading is thought to be similar to stretching for humans.',
         'Cats mainly pant when in distress.',
-        'Purring is a sign of contentment.',
+        'Purring is often a sign of contentment.',
         'Nuzzling is a way for cats to mark an area as safe.',
         'Many cats like to chew on grass, which is known to trigger a vomiting reflex.',
         'Kittens frequently mistake any and all objects as toys.',
