@@ -1,0 +1,4 @@
+text eol=lf
+*.php text
+*.css linguist-vendored
+*.less linguist-vendored

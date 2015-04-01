@@ -1,0 +1,15 @@
+# Laravel tuff
+/vendor
+/node_modules
+.env
+
+# IntelliJ
+*.iml
+
+# Mac
+.DS_Store
+
+# Local
+/composer.phar
+/_ide_helper.php
+/composer.lock

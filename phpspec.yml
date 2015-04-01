@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: KittehScience
+        psr4_prefix: KittehScience
+        src_path: app
