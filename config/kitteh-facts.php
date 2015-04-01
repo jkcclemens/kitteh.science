@@ -16,7 +16,6 @@ return [
         'Kittens and cats will suckle until removed from their mothers.',
         'Kittens enjoy human companionship.',
         'Kittens enjoy and seek out dark places to hide.',
-        'It is illegal in many places to give away kittens younger than eight weeks old.',
-        ''
+        'It is illegal in many places to give away kittens younger than eight weeks old.'
     ]
 ];
