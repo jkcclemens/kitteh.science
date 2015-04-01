@@ -16,6 +16,13 @@ return [
         'Kittens and cats will suckle until removed from their mothers.',
         'Kittens enjoy human companionship.',
         'Kittens enjoy and seek out dark places to hide.',
-        'It is illegal in many places to give away kittens younger than eight weeks old.'
+        'It is illegal in many places to give away kittens younger than eight weeks old.',
+        'A cat holding its tail up is a sign of happiness or a welcoming demeanor.',
+        'Kneading is thought to be similar to stretching for humans.',
+        'Cats mainly pant when in distress.',
+        'Purring is a sign of contentment.',
+        'Nuzzling is a way for cats to mark an area as safe.',
+        'Many cats like to chew on grass, which is known to trigger a vomiting reflex.',
+        'Kittens frequently mistake any and all objects as toys.',
     ]
 ];
