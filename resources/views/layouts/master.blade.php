@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"/>
     <title>Kitteh Science!</title>
     <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/g/pure@0.6.0(base-min.css+menus-min.css+grids-min.css+grids-responsive-min.css)"/>
     <link rel="stylesheet" type="text/css" href="{{ elixir('css/custom.css') }}"/>
